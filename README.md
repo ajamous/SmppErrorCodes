@@ -1,4 +1,4 @@
-# SmppErrorCodes
+# Smpp Error Codes List
 List of SMPP error codes
 
 <table>
